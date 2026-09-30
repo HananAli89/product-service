@@ -1,1 +1,6 @@
 /target
+
+# Lab 2: keep env files out of Git
+.env
+.env.*
+!.env.example
